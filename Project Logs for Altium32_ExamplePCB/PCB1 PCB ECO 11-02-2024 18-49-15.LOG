@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=P1 Old Footprint=62131021021 New Footprint=62131021021
+Added Component: Designator=Y1(TROQ R940000171)
+Added Pin To Net: NetName=MCU_OSC_IN Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=MCU_OSC_OUT Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
